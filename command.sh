@@ -1,0 +1,5 @@
+locate
+
+whoami
+
+history
