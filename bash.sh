@@ -16,3 +16,5 @@ whoami
 
 !!
 whoami
+
+ls -1
