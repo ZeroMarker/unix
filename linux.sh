@@ -5,6 +5,8 @@ ufw status
 ufw app list
 ufw allow 'Nginx HTTP'
 mysql_secure_installation
+
+# faq
 npm install pm2@latest -g
 yum -y list java*
 find /usr -type f -name "*.conf"
