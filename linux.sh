@@ -76,3 +76,5 @@ tldr view
 
 view main.conf
 
+# Epoch Time
+date +%s
