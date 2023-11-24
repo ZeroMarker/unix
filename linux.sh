@@ -40,6 +40,10 @@ ls ~/.local/share/Trash/files
 # system info
 
 uname -a
+
+uname -r
+## kernel version
+
 neofetch
 
 # Spd-say
