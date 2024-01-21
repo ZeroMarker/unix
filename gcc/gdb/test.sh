@@ -1,3 +1,4 @@
+# https://zhuanlan.zhihu.com/p/678933775
 gcc -g test.c -o test
 
 gdb test
