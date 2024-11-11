@@ -1,5 +1,7 @@
 # unix
 
+[Linux 常用命令](https://www.zhihu.com/question/23564190/answer/3336824946)
+
 [duf](https://github.com/muesli/duf)
 
 [modern-unix](https://github.com/ibraheemdev/modern-unix)
