@@ -23,3 +23,7 @@ view main.conf
 
 # Epoch Time
 date +%s
+
+# empty
+: > file.log
+
