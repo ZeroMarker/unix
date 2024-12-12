@@ -1,3 +1,5 @@
+# https://dev.to/yogeshdev/make-your-unix-terminal-beautiful-productive-c1d
+
 echo $0
 
 cat /etc/shells
