@@ -1,0 +1,2 @@
+http://api.e-stat.go.jp/rest/3.0/app/json/getStatsData?appId=d4b0f8657283dfa068a4cc6f1dd0fb2d6be4df94&lang=J&statsDataId=0003443840&metaGetFlg=Y&cntGetFlg=N&explanationGetFlg=Y&annotationGetFlg=Y&sectionHeaderFlg=1&replaceSpChars=0
+http://api.e-stat.go.jp/rest/3.0/app/json/getStatsData?appId=d4b0f8657283dfa068a4cc6f1dd0fb2d6be4df94&lang=J&statsDataId=0003224282&metaGetFlg=Y&cntGetFlg=N&explanationGetFlg=Y&annotationGetFlg=Y&sectionHeaderFlg=1&replaceSpChars=0
