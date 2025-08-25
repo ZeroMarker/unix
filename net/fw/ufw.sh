@@ -1,0 +1,2 @@
+sudo ufw allow 8080
+
