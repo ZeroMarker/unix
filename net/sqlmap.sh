@@ -1,2 +1,0 @@
-sqlmap -u baidu.com
-
