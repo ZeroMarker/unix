@@ -13,3 +13,6 @@ mise use -g xh
 # fd, find
 
 # lazygit, git
+
+# btop, top
+
