@@ -18,3 +18,5 @@ cargo install cargo-cache
 cargo cache
 cargo cache --autoclean
 
+uv cache prune
+
