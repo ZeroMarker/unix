@@ -16,3 +16,7 @@ tyls
 tycat
 
 
+chafa
+
+sixel
+

@@ -20,3 +20,11 @@ cargo cache --autoclean
 
 uv cache prune
 
+sudo rm -rf /var/lib/snapd/cache/*
+
+snap remove gnome-46-2404
+
+snap list
+
+apt list --installed
+
