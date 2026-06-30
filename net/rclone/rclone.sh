@@ -14,4 +14,5 @@ rclone copy /path/to/bigvideo.mp4 pik:My\ TikTok \
 
 rclone mount pik: ~/pik --vfs-cache-mode full --vfs-cache-max-size 10G --vfs-read-chunk-size 64M --vfs-read-chunk-size-limit off --vfs-read-ahead 256M --buffer-size 128M --dir-cache-time 24h --poll-interval 1m --allow-other --daemon --log-file ~/rclone_pikpak.log --log-level INFO
 
+fusermount -u ~/pik
 

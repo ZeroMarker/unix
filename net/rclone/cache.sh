@@ -1,0 +1,2 @@
+du -sh ~/.cache/rclone
+
