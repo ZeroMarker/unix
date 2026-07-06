@@ -1,0 +1,1 @@
+zj -s asahi run -- record_tiktok mizuno_asahi
