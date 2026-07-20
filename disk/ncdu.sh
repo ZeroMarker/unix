@@ -4,6 +4,13 @@ ncdu
 
 ncdu --exclude ~/pik
 
+ncdu -o ~/pik_snapshot.txt
+ncdu -f ~/pik_snapshot.txt
+
+# C sort by items number
+# c toggle items number
+
+---
 npm cache clean --force
 
 go clean -modcache -cache
