@@ -17,7 +17,7 @@ OPTS=(
     # ---------- 缓存模式 ----------
     --vfs-cache-mode full               # 全缓存模式：本地缓存完整文件，读性能最佳
     --vfs-cache-max-size 10G            # 缓存目录最大占用 10GB，防止磁盘爆满
-    --vfs-cache-max-age 48h             # 缓存文件最长保留 48 小时，自动清理旧块
+    --vfs-cache-max-age 12h             # 缓存文件最长保留 48 小时，自动清理旧块
 
     # ---------- 读取优化 ----------
     --vfs-read-chunk-size 32M           # 每次请求的块大小（32MB），平衡首帧延迟
