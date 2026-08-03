@@ -1,2 +1,0 @@
-ssh user@host
-
