@@ -10,7 +10,6 @@ Unix/Linux 命令、Shell 脚本、终端工具和常用系统配置笔记。
 ├── media/            # 媒体处理 (browser, dict, image, pdf, video)
 ├── net/              # 网络工具 (net, clash, curl, rclone, server, ssh, ssl)
 ├── scripts/          # 可执行脚本
-│   ├── e-stat/       # e-stat 批量请求
 │   └── rclone/       # PikPak 挂载脚本
 ├── shell/            # Shell 环境 (bash, fish, zsh)
 └── sys/              # 系统信息与配置 (info, winver, mise, swap)

@@ -45,8 +45,6 @@ curl ipinfo.io
 # [Everything about cURL](https://everything.curl.dev/)
 ```
 
-批量请求日本 e-stat 接口的脚本见 [scripts/e-stat/](../scripts/e-stat/)。
-
 ## rclone
 
 ```sh
